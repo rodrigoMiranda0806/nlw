@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 > Trilha Explorer
 
-[Clique aqui para acessar](https://rodrigoMiranda0806.github.io/nlw-eSports-games/)
+[🔗 Clique aqui para acessar](https://rodrigoMiranda0806.github.io/nlw-eSports-games/)
 
 Projeto construído do Evento next Level Week da Rocketseat
 
